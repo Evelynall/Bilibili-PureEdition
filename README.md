@@ -8,5 +8,5 @@ BiliBili纯享版，删除了多余功能按钮(如大会员、会员购等)，�
 ## [千图纯享版](https://greasyfork.org/zh-CN/scripts/475009-%E5%8D%83%E5%9B%BE%E7%BA%AF%E4%BA%AB%E7%89%88-evelynal)
 ![图片](https://cdnjson.com/images/2023/09/11/1694416094896.png)
 
-## [包图纯享版]()
+## [包图纯享版](https://greasyfork.org/zh-CN/scripts/475010-%E5%8C%85%E5%9B%BE%E7%BA%AF%E4%BA%AB%E7%89%88-evelynal)
 ![图片](https://cdnjson.com/images/2023/09/11/image4517806e3468ee9b.png)
