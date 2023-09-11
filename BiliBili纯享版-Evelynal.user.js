@@ -9,7 +9,8 @@
 // @match        https://*.bilibili.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
-// @require    http://libs.baidu.com/jquery/2.0.0/jquery.min.js
+// @require      http://libs.baidu.com/jquery/2.0.0/jquery.min.js
+// @license      AGPL-3.0 license
 // ==/UserScript==
 
 (function () {
