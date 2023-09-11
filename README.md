@@ -1,4 +1,4 @@
-# WebExclusivePlan
+# WebExclusivePlan 网页纯享计划
 这是一个油猴脚本的纯享计划，将一些常用的网页删除绝大部分无用的功能，还你一个干净的网页体验！
 目前实现的有：
 ## [Bilibili纯享版](https://greasyfork.org/zh-CN/scripts/475005-bilibili%E7%BA%AF%E4%BA%AB%E7%89%88-evelynal)
