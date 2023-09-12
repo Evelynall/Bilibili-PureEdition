@@ -2,11 +2,10 @@
 // @name         BiliBili纯享版-Evelynal
 // @namespace    http://www.evelynal.top/Navigation/
 // @version      0.1.1
-// @description  删除多余功能按钮(包括但不限于大会员、会员购、游戏中心等)-删除banner等元素(灵感来自“B站首页推荐纯享版”，但那个插件创建了一个新的页面，导致无法将视频放入“稍后再看”，于是只能自己尝试做了一个插件XD)
+// @description  删除多余功能按钮(包括但不限于大会员、会员购、游戏中心等)-删除banner等元素(灵感来自“B站首页推荐纯享版”，但那个插件创建了一个新的页面，导致无法将视频放入“稍后再看”，于是只能自己尝试做了一个插件XD)  09.12更新：暂时移除了对播放页的支持(有可能造成卡顿)
 // @author       Evelynal
 // @match        https://www.bilibili.com/
 // @match        https://www.bilibili.com/?spm_id_from=*
-// @match        https://*.bilibili.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
 // @require      http://libs.baidu.com/jquery/2.0.0/jquery.min.js
