@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         千图纯享版-Evelynal
 // @namespace    http://www.evelynal.top/Navigation/
-// @version      0.1
+// @version      0.2.0
 // @description  删除多余功能按钮,送你一个干净的千图
 // @author       Evelynal
 // @match        https://www.58pic.com/
@@ -16,7 +16,7 @@
     'use strict';
     // Your code here...
     //删除顶栏
-    $(".head-box").remove();
+ //   $(".head-box").remove();
     $(".banner-container").remove();
     //    $(".banner-pagination").remove();
     //    $(".banner-tip").remove();
@@ -27,6 +27,13 @@
     $(".hot-keyword-container").remove();
     $(".qtd-search-containerB").remove();
     $(".search-polymerization-list-wrap").remove();
+    $(".overlay").remove();
+    $(".login-tip-header").remove();
+    $(".is-personal").remove();
+    $(".is-qiye").remove();
+    $(".icon-moren-weizhankai").remove();
+    $(".login-model").remove();
+    $(".tally").remove();
 
     //修改视频格子的margin-top
     const feedCards = $('.search-category-container');
